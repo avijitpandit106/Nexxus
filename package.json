@@ -1,0 +1,41 @@
+{
+  "name": "prototype",
+  "version": "1.0.0",
+  "description": "Discord Js Bot",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "node .",
+    "start:dev": "nodemon ./src/bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avijitpandit106/Prototype.git"
+  },
+  "keywords": [],
+  "author": "Avijit Pandit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avijitpandit106/Prototype/issues"
+  },
+  "homepage": "https://github.com/avijitpandit106/Prototype#readme",
+  "dependencies": {
+    "@discordjs/rest": "^1.7.1",
+    "black": "^0.3.0",
+    "canvacord": "^5.4.10",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.37.46",
+    "discord-gamecord": "^4.4.0",
+    "discord-html-transcripts": "^3.1.4",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1",
+    "mongodb": "^5.8.0",
+    "mongoose": "^7.3.3",
+    "node-fetch": "^3.3.1",
+    "openai": "^3.3.0",
+    "wikijs": "^6.4.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.43.0",
+    "nodemon": "^3.0.1"
+  }
+}
