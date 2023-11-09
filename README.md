@@ -16,8 +16,9 @@ Please note that the bot may receive updates and improvements over time, and add
 <li>discord-html-transcripts</li>
 <li>mongoose/mongodb</li>
 <li>wikijs</li>
-## AUTHOR
 
+## AUTHOR
 - [@avijitpandit106](https://www.github.com/avijitpandit106)
+
 ## INVITE
 - Invite the discord bot by clicking [here.](https://discord.com/api/oauth2/authorize?client_id=915202893483769908&permissions=8&scope=bot%20applications.commands)
