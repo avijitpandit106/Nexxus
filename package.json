@@ -31,7 +31,7 @@
     "mongodb": "^5.8.0",
     "mongoose": "^7.3.3",
     "node-fetch": "^3.3.1",
-    "openai": "^3.3.0",
+    "openai": "^4.17.5",
     "wikijs": "^6.4.1"
   },
   "devDependencies": {
